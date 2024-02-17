@@ -1,19 +1,12 @@
-clean:
-	rm -rf dist
-
-install:
-	xkalamine install erglace.toml
-
-uninstall:
-	xkalamine remove fr/erglace
+all: release
 
 dist: erglace.toml
 	kalamine make erglace.toml
+	cp -f erglace.toml dist/erglace.toml
+	mkdir -p img
+	mv -f dist/erglace.svg img
 
 img: dist
-	mkdir -p img
-
-	mv -f dist/erglace.svg img
 	cp -f img/erglace.svg img/erglace_1dk.svg
 	cp -f img/erglace.svg img/erglace_altgr.svg
 	cp -f img/erglace.svg img/erglace_all.svg
@@ -32,4 +25,13 @@ img: dist
 	sed -i 's/iso intlBackslash/iso intlBackslash altgr/g' img/erglace_iso_altgr.svg
 	sed -i 's/iso intlBackslash/iso intlBackslash mixed/g' img/erglace_iso_all.svg
 
-release: dist img
+release: img
+
+clean:
+	rm -rf dist
+
+install:
+	xkalamine install erglace.toml
+
+uninstall:
+	xkalamine remove fr/erglace
