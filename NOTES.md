@@ -65,6 +65,8 @@
 
 - Sur la page de statistiques du site d'Ergo-L, Erglace a un SFB important en anglais a cause des guillemets, comme `.”` qui contribue à lui seul à 0.16%. Je considère que ces guillemets sont surreprésentés dans le corpus, et que cet enchaînements n'est pas assez courant au quotidien pour essayer de le prendre en compte.
 
+- En conclusion, la disposition a des défauts et fait un certain nombre de compromis. Avec les mêmes contraintes, on peut encore faire mieux. On peut remettre en question l'approche visant à minimiser les redirections, car cela implique d'avoir peu de roulements, qui sont pourtant agréables et propices à la mémoire musculaire. Erglace ne devrait cependant pas connaître de changements majeurs, s'il y en a, ce sera une nouvelle disposition.
+
 ## Statistiques utiles
 
 Quelques statistiques non exhaustives extraites du json [en+fr](https://github.com/Nuclear-Squid/ergol/blob/master/data/corpus/en%2Bfr.json).

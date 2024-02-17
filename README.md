@@ -46,7 +46,7 @@ Here are additional images with [all the layers](img/erglace_all.svg) or for the
 
 > Erglace abandonne l'accès facile au raccourcis usuels (Ctrl+C, Ctrl+V, ...) pour atteindre de meilleurs statistiques, en particulier un SFB plus bas, sous les 1%. Le SFB correspond aux enchaînements de deux caractères qui utilisent le même doigt, ce qui ralentit la vitesse de frappe.
 >
-> L'autre différence est qu'Erglace cherche à minimiser les redirections, c'est-à-dire les enchaînements de trois caractères d'une même main avec un changement de direction, mouvement considéré comme inconfortable. Pour ce faire, toutes les voyelles se retrouvent d'un côté, comme en Bépo, ce qui favorise l'alternance des mains. Le désavantage est que la disposition a moins de roulements, c'est-à-dire des enchaînements de trois lettres d'une main dans une même direction, qui peuvent être appréciables.
+> L'autre différence est qu'Erglace cherche à minimiser les redirections, c'est-à-dire les enchaînements de trois caractères d'une même main avec un changement de direction, mouvement considéré comme inconfortable. Pour ce faire, toutes les voyelles se retrouvent d'un côté, comme en Bépo, ce qui favorise l'alternance des mains. Le désavantage est que la disposition a moins de roulements, c'est-à-dire des enchaînements de trois lettres d'une main dans une même direction, qui sont appréciables.
 
 ## Install
 
@@ -60,9 +60,6 @@ On Linux, you can use `xkalamine` to install it. Follow the steps from the [Ergo
 
 ## Make your own
 
-The layout has some flaws, we can still improve it! You may also want to adapt it to your needs.
-
-You can easily modify [the layout](erglace.toml), which is a human-readable
-ASCII art. Then, use [Kalamine][kalamine] to generate the drivers. Please share your improvements on the [discord server][discord]!
+You can easily modify [the layout](erglace.toml), which is a human-readable ASCII art. Then, use [Kalamine][kalamine] to generate the drivers. Let's find the best layout!
 
 [kalamine]: https://github.com/OneDeadKey/kalamine
