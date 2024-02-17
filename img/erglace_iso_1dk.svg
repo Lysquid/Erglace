@@ -598,7 +598,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">V</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">^</text>
           <text class="level4 deadKey diacritic" width="22" height="22" x="38" y="20.6">^</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4"/>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">–</text>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
@@ -609,7 +609,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">P</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">&amp;</text>
           <text class="level4 deadKey" width="22" height="22" x="38" y="20.6"/>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">–</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4"/>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
@@ -765,8 +765,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">T</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">+</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">±</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">_</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6">_</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">à</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6">À</text>
         </g>
       </g>
       <g class="letterKey homeKey" finger="r3" id="KeyK" transform="translate(525, 0)">
@@ -776,8 +776,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">N</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">-</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">—</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">à</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6">À</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">â</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6">Â</text>
         </g>
       </g>
       <g class="letterKey homeKey" finger="r4" id="KeyL" transform="translate(585, 0)">
@@ -787,8 +787,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">S</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">/</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">÷</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">â</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6">Â</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">_</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6">_</text>
         </g>
       </g>
       <g class="letterKey homeKey" finger="r5" id="Semicolon" transform="translate(645, 0)">
@@ -885,7 +885,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">H</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">_</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">–</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">—</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4"/>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
@@ -909,7 +909,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">B</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">|</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">¦</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4"/>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">—</text>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
