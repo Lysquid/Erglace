@@ -5,17 +5,13 @@
 - [Keyboard Layouts Doc](https://bit.ly/keyboard-layouts-doc), ressource théorique très complète
 - La [page de statistiques](https://lysquid.github.io/Erglace/stats) d'Ergo-L
 - [Layout playground](https://o-x-e-y.github.io/layouts/playground/), pour des statistiques complémentaires (LSB, BadRedirects) et du prototypage rapide
-- Les [statistiques de fréquence](corpus/) de Ergo-L pour le français et l'anglais
+- Les [statistiques de fréquence](https://github.com/Nuclear-Squid/ergol/tree/master/data/corpus) de Ergo-L pour le français et l'anglais
 - [Heatmap d'effort](https://colemakmods.github.io/mod-dh/model.html) des touches du clavier, développée pour Colmak-DH
 - Les retours sur le [discord d'Ergo-L](https://discord.gg/RH34GjQEgC)
 
 ## Layout
 
-![base layout](img/erglace.svg)
-
-![dead key layout](img/erglace_1dk.svg)
-
-![altgr layout](img/erglace_altgr.svg)
+![layout](img/erglace_all.svg)
 
 ## Notes de conceptions
 
@@ -49,6 +45,8 @@
 
 - `q` et `x` sur la colonne de l'auriculaire peuvent aussi être intervertis. Mais `q` étant beaucoup plus courant, il a la position la plus confortable, en haut. Un défaut est l'enchaînement `sq` qui n'est alors pas très confortable.
 
+- Un autre digramme problématique est `j'`, un ciseau désagréable. On pourrait être tenté d'inverser `j` et `y`, mais cela créerait alors un ciseau pour `you`, qui est sinon un très bon roulement, et rend `je` moins confortable. Il a été envisagé d'inverser `j` et `x`, mais cela aurait créé SFB important avec `xi`, particulièrement en anglais (digramme potentiellement biaisé dans le corpus: "Don Quixote" en anglais).
+
 - Les accents ont ensuite été répartis sur la couche correspondante, de préférence proches des lettres correspondantes, dans la limite de la place disponible du côté des voyelles. `ê` est sur e, car il y a souvent un autre `e` dans le même mot comme dans `même` et `être`.
 
 - `a` étant sous la touche morte, ses variantes accentuées ne peuvent pas être sur cette colonne sous peine d'un SFB important. `à` et `â` ont donc été placés à droite sur les lettres avec lesquelles il fait le plus petit SFB. `œ` a aussi été placé à droite par manque de place, ce qui lui donne une place sur la home row.
@@ -65,9 +63,11 @@
 
 - Dans cette version précédente, `?`, `!` et `_` étaient respectivement derrière `,`, `.` et `-` en shift. Nous avons longtemps débattu sur ce sujet, la conclusion étant que cela est plutôt une affaire de goût personnel. La solution la plus simple a donc été de se caler sur les conventions d'Ergo-L, ce qui simplifie la compatibilité avec la couche de symboles.
 
+- Sur la page de statistiques du site d'Ergo-L, Erglace a un SFB important en anglais a cause des guillemets, comme `.”` qui contribue à lui seul à 0.16%. Je considère que ces guillemets sont surreprésentés dans le corpus, et que cet enchaînements n'est pas assez courant au quotidien pour essayer de le prendre en compte.
+
 ## Statistiques utiles
 
-Quelques statistiques non exhaustives extraites du json [en+fr](corpus/en+fr.json).
+Quelques statistiques non exhaustives extraites du json [en+fr](https://github.com/Nuclear-Squid/ergol/blob/master/data/corpus/en%2Bfr.json).
 
 ### Digrammes de voyelles
 

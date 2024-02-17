@@ -383,7 +383,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">!</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₁</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">¹</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">„</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">§</text>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6">¡</text>
         </g>
       </g>
@@ -394,8 +394,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">@</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₂</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">²</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">“</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6">«</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">¶</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
       <g class="numberKey" finger="l4" id="Digit3" transform="translate(180, 0)">
@@ -405,8 +405,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">#</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₃</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">³</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">”</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6">»</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">°</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
       <g class="numberKey" finger="l3" id="Digit4" transform="translate(240, 0)">
@@ -462,7 +462,7 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">*</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₈</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">⁸</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">§</text>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">„</text>
           <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
         </g>
       </g>
@@ -473,8 +473,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">(</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₉</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">⁹</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">¶</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">“</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6">«</text>
         </g>
       </g>
       <g class="numberKey" finger="r4" id="Digit0" transform="translate(600, 0)">
@@ -484,8 +484,8 @@
           <text class="level2" width="22" height="22" x="12.8" y="20.6">)</text>
           <text class="level3" width="22" height="22" x="38" y="43.4">₀</text>
           <text class="level4" width="22" height="22" x="38" y="20.6">⁰</text>
-          <text class="level5 dk" width="22" height="22" x="38" y="43.4">°</text>
-          <text class="level6 dk" width="22" height="22" x="38" y="20.6"/>
+          <text class="level5 dk" width="22" height="22" x="38" y="43.4">”</text>
+          <text class="level6 dk" width="22" height="22" x="38" y="20.6">»</text>
         </g>
       </g>
       <g class="pinkyKey" finger="r5" id="Minus" transform="translate(660, 0)">
