@@ -45,7 +45,7 @@
 
 - `q` et `x` sur la colonne de l'auriculaire peuvent aussi être intervertis. Mais `q` étant beaucoup plus courant, il a la position la plus confortable, en haut. Un défaut est l'enchaînement `sq` qui n'est alors pas très confortable.
 
-- Un autre digramme problématique est `j'`, un ciseau désagréable. On pourrait être tenté d'inverser `j` et `y`, mais cela créerait alors un ciseau pour `you`, qui est sinon un très bon roulement, et rend `je` moins confortable. Il a été envisagé d'inverser `j` et `x`, mais cela aurait créé SFB important avec `xi`, particulièrement en anglais (digramme potentiellement biaisé dans le corpus: "Don Quixote" en anglais).
+- Un autre digramme problématique est `j'`, un ciseau désagréable. On pourrait être tenté d'inverser `j` et `y`, mais cela créerait alors un ciseau pour `you`, qui est sinon un très bon roulement, et rend `je` moins confortable. Il a été envisagé d'inverser `j` et `x`, mais cela aurait créé des redirections pour `eux` et `aux` et un SFB important avec `ix`, particulièrement en anglais (digramme potentiellement biaisé dans le corpus: "Don Quixote" en anglais). Le mod `jx` reste intéressant pour ceux qui trouvent `j'` vraiment trop inconfortable.
 
 - Les accents ont ensuite été répartis sur la couche correspondante, de préférence proches des lettres correspondantes, dans la limite de la place disponible du côté des voyelles. `ê` est sur e, car il y a souvent un autre `e` dans le même mot comme dans `même` et `être`.
 
