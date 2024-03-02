@@ -23,10 +23,10 @@ A layout for French, English and programming. It is a fork of [ErgEAU][ergeau], 
 - [Statistics][stats]
 - [Discord (Ergo-L)][discord]
 
-[test]: https://ergol.org/stats#/erglace/ol40/en+fr
-[learn]: https://ergol.org/dactylo#erglace
+[test]: https://ergol.org/erglace
+[learn]: https://ergol.org/dactylo/#erglace
 [discord]: https://discord.gg/RH34GjQEgC
-[stats]: https://ergol.org/stats#/erglace/ol40/en+fr
+[stats]: https://ergol.org/stats/#/erglace/ol40/en+fr
 
 ## Layout
 
